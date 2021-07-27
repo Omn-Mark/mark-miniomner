@@ -39,5 +39,5 @@ app.post('/add', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log('server on');
+    console.log('server ons');
 });
